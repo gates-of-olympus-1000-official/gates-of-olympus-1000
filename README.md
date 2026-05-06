@@ -173,7 +173,7 @@ Gates of Olympus 1000 демо помогло понять темп и выбр�
 
 <a href="https://1wzpdo.life/v3/4006/fortune-wheel-gates-of-olympus?p=6kv9" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/%E2%9A%A1_PLAY_GATES_OF_OLYMPUS_1000-ff007f?style=for-the-badge&labelColor=111827"
+    src="https://img.shields.io/badge/%E2%9A%A1_ИГРАТЬ_В_GATES_OF_OLYMPUS_1000-ff007f?style=for-the-badge&labelColor=111827"
     alt="⚡ Играть в Gates of Olympus 1000"
     width="520"
     style="display:block; margin:18px auto;"
